@@ -7,11 +7,11 @@ variable "CLOUD_INIT_SOURCE" {
 }
 
 variable "AWS_KEY" {
-    default = "AKIAZTEUS7KQB3PLXEH7"
+    default = ""
 }
 
 variable "AWS_SECRET" {
-    default = "y3akplhOpaGkyMPYeZwF309TIwbBNk9n34ziM3gd"
+    default = ""
 }
 
 variable "AMI" {
