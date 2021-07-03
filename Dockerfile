@@ -1,7 +1,7 @@
 FROM node:10
 
 # Project Target: SECRET WORD is Strawberry
-ENV SECRET_WORD="Strawberry"
+ENV SECRET_WORD="TwelveFactor"
 
 # Create app directory
 WORKDIR /usr/src/app
